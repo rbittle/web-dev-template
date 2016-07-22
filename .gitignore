@@ -1,0 +1,27 @@
+# Don't track result build files
+build/**/*
+
+# Debug Folder
+debug
+
+# Map Files
+*.map
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime Data
+pids
+*.pid
+*.seed
+
+# Vim Files
+*.swp
+.tern-project
+
+# Node Dependency Directories
+node_modules
+
+# npm Cache Directory
+.npm
